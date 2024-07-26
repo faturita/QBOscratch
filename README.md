@@ -72,3 +72,7 @@ https://www.amazon.com/-/es/Segger-J-LINK-Mini-JTAG-Depurador/dp/B0758XRMTF/
 
 Paso a paso para actualizar el firmware: http://thecorpora.com/community/q-board-arduino/firmware-source-code-available-guide/
 
+# Servos
+
+Los servos son https://www.robotis.us/dynamixel-xl-320/
+

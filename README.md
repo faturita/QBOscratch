@@ -76,3 +76,5 @@ Paso a paso para actualizar el firmware: http://thecorpora.com/community/q-board
 
 Los servos son https://www.robotis.us/dynamixel-xl-320/
 
+Este sitio describe como conectar bien los servos: http://walker.gosrich.com/posts/xl320.html
+Y este proyecto https://github.com/hackerspace-adelaide/XL320 es genial, porque te permite conectar el pin de datos, el GND y VCC de los servos a un arduino y mandarle los comandos para setear el ID del motor en el bus de modbus y luego poder setearle el baud rate.  Eso sirve para reincorporar los servos para poder usarlos.
